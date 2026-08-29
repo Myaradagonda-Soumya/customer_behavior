@@ -183,7 +183,7 @@ Conclusion
 
 Step 1: Clone Repository
 
-git clone https://github.com/yourusername/customer-behaviour-analysis.git
+git clone https://github.com/Myaradagonda-Soumya/customer_behavior.git
 
 Step 2: Install Required Libraries
 
